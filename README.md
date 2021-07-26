@@ -1,3 +1,12 @@
-# ghostbin.co-bruter
+# bin-bruter
 
-A simple, fast and useful bruter. \ -> my hits: [ghostbin.co](https://ghostbin.co/paste/h8ok9/raw)
+A simple, fast and useful bruter for multiple paste sources.
+
+## Suppots
+
+* Pastebin [Still in Beta]
+* Rentry
+* GhostBin.co
+* GhostBin.com
+
+Made by [@bravo68web](https://bravo68web.me/)
